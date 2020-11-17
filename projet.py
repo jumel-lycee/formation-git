@@ -1,3 +1,4 @@
-import logger
+import logging
 
-logger.debug('Message')
+logging.debug('Message')
+logging.warning('Attention')
