@@ -10,8 +10,6 @@ def erreur(message):
 
 logging.debug('Message')
 logging.warning('Attention')
-# un commentaire
-#2 commentaires
 # Yves
 # Mireille
 # Valérie M
