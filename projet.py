@@ -10,7 +10,11 @@ def erreur(message):
 
 logging.debug('Message')
 logging.warning('Attention')
+
 # Yves
 # Mireille
 # Valérie M
 # Vincent-Xavier
+def modifniveau():
+    # 
+    pass
