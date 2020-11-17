@@ -16,3 +16,6 @@ logging.warning('Attention')
 # Mireille
 # Valérie M
 # Vincent-Xavier
+def modifniveau():
+    # 
+    pass
