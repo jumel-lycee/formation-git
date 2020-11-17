@@ -13,6 +13,7 @@ logging.warning('Attention')
 # un commentaire
 #2 commentaires
 # Mireille
+#Valérie M
 # Vincent-Xavier
 
 
