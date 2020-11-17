@@ -8,6 +8,4 @@ def erreur(message):
 
 logging.debug('Message')
 logging.warning('Attention')
-
-
-
+# un commentaire
