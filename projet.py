@@ -12,7 +12,8 @@ logging.debug('Message')
 logging.warning('Attention')
 # un commentaire
 #2 commentaires
-#commentaire 3
+#Valérie M
+
 
 # Vincent-Xavier
 
